@@ -1,0 +1,4 @@
+ctransformers
+streamlit
+rank_bm25
+huggingface_hub

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Models (Large files)
+models/
+*.gguf
+*.bin
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
